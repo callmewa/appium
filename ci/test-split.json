@@ -1,0 +1,24 @@
+{
+  "group 1": [
+    "test/functional/android/apidemos/alerts-specs.js",
+    "test/functional/android/apidemos/gestures-specs.js",
+    "test/functional/android/apidemos/source-specs.js"
+  ],
+  "group 2": [
+    "test/functional/android/apidemos/attributes-specs.js",
+    "test/functional/android/apidemos/keyboard-specs.js",
+    "test/functional/android/apidemos/touch-specs.js"
+  ],
+  "group 3": [
+    "test/functional/android/apidemos/basic-specs.js",
+    "test/functional/android/apidemos/location-specs.js"
+  ],
+  "group 4": [
+    "test/functional/android/apidemos/file-specs.js",
+    "test/functional/android/apidemos/orientation-specs.js"
+  ],
+  "group 5": [
+    "test/functional/android/apidemos/find-element-specs.js",
+    "test/functional/android/apidemos/screenshot-specs.js"
+  ]
+}
